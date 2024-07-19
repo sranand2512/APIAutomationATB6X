@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/sanan/IdeaProjects/APIAutomationATB6X/src/test/java/com/saurabhAPIAuto/tests/integration/TCIntegration.java"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.298">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testCreateBooking"
+                time="0.239"
+                classname="com.saurabhAPIAuto.tests.integration.sample">
+            </testcase>
+            <testcase
+                name="testDeleteBookingId"
+                time="0.030"
+                classname="com.saurabhAPIAuto.tests.integration.sample">
+            </testcase>
+            <testcase
+                name="testUpdateBookingId"
+                time="0.026"
+                classname="com.saurabhAPIAuto.tests.integration.sample">
+            </testcase>
+            <testcase
+                name="testVerifyBookingId"
+                time="0.003"
+                classname="com.saurabhAPIAuto.tests.integration.sample">
+            </testcase>
+</testsuite>

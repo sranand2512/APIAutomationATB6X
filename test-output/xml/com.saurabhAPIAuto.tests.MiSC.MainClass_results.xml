@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="API_Automation_Learning"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.189">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testMethods1"
+                time="0.446"
+                classname="com.saurabhAPIAuto.tests.MiSC.MainClass">
+            </testcase>
+            <testcase
+                name="testMethods2"
+                time="0.428"
+                classname="com.saurabhAPIAuto.tests.MiSC.MainClass">
+            </testcase>
+            <testcase
+                name="testMethods3"
+                time="0.459"
+                classname="com.saurabhAPIAuto.tests.MiSC.MainClass">
+            </testcase>
+            <testcase
+                name="testMethods5"
+                time="0.424"
+                classname="com.saurabhAPIAuto.tests.MiSC.MainClass">
+            </testcase>
+            <testcase
+                name="testMethods4"
+                time="0.425"
+                classname="com.saurabhAPIAuto.tests.MiSC.MainClass">
+            </testcase>
+            <testcase
+                name="testMethods6"
+                time="0.007"
+                classname="com.saurabhAPIAuto.tests.MiSC.MainClass">
+            </testcase>
+</testsuite>
